@@ -9,4 +9,4 @@ Data and code accompanying "A cloud screening algorithm for ground-based aerosol
   - Explain folders
 * How to use
   - Recommended setup (Colab)
-  - How to use locally with jupyter (What packages are needed
+  - How to use locally with jupyter (What packages are needed)
