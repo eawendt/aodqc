@@ -12,6 +12,7 @@ Data and code accompanying "A cloud screening algorithm for ground-based aerosol
 
 ## How to use the example notebook
 ### Method 1 (recommended): Google Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb)
 1. Open the notebook in GitHub.
 2. Click the link at the top of the page to open notebook in Colab.
 3. Run the script. There is a command in the script that automatically creates a local clone of the repository in your Google Drive.
