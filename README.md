@@ -1,5 +1,5 @@
 # aodqc
-Data and code accompanying "A cloud screening algorithm for ground-based aerosol optical depth measurements using all-sky images and deep transfer learning."
+Data and code accompanying "A cloud screening algorithm for ground-based sun photometry using all-sky images and deep transfer learning."
 
 ## DOI
 [![DOI](https://zenodo.org/badge/472905349.svg)](https://zenodo.org/badge/latestdoi/472905349)
